@@ -58,3 +58,11 @@ The limits in the rules are:
 - Noun clusters have 3 words or fewer.
 
 The rules follow the spirit of ASD-STE100. They are not the full specification. The full specification and its dictionary come from the ASD-STE100 maintainers.
+
+## License
+
+Copyright (C) the owner of this repo.
+
+This program is free software. You can redistribute the program and change the program under the terms of the GNU General Public License. Use version 3 of the License, or any later version.
+
+The full text of version 3 is in the file `LICENSE`.
